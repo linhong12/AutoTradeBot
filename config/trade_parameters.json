@@ -1,0 +1,13 @@
+{
+  "take_profit_ratio": 0.015,
+  "max_position_ratio": 0.4,
+  "leverage": 10,
+  "stop_loss_ratio": 0.02,
+  "base_model_path": "C:/Users/Linho/Desktop/hkkj/code/Kronos/finetune_csv/pretrained/finetuned/BTC_USDT_15min_okx/basemodel",
+  "tokenizer_model_path": "C:/Users/Linho/Desktop/hkkj/code/Kronos/finetune_csv/pretrained/finetuned/BTC_USDT_15min_okx/tokenizer",
+  "rsi_overbought": 70.0,
+  "rsi_oversold": 30.0,
+  "ma_short_period": 40,
+  "ma_long_period": 120,
+  "strategy_mode": "RSI"
+}
